@@ -6,11 +6,16 @@ permalink: mydoc_cv.html
 folder: mydoc
 ---
 
+#### Solo Shows
+2023, A Preview of Fire, The Grind, Jersey City, NJ
+
+
 #### Group Shows
 ```
 (upcoming) RASA, Active Space, Brooklyn, NY
 (upcoming) Transparent Boundaries, The Aerogramme Center x Compére Collective, Brooklyn, NY
 
+2023, 0 to 100, Smush Gallery, Jersey City, NJ
 2023, Group Exhibition, "B" Dry Goods, Brooklyn, NY
 2023, Group Exhibition, AWITA Gallery, Brooklyn, NY
 2023, Celebrating Women in the Arts, Artists of Today, Online Exhibition

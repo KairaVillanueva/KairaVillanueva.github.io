@@ -20,7 +20,6 @@ folder: mydoc
 2023, Group Exhibition, AWITA Gallery, Brooklyn, NY
 2023, Celebrating Women in the Arts, Artists of Today, Online Exhibition
 
-2022, A Story of Floods: Augmented Mural, Boys and Girls Club, Atlantic City, NJ
 2022, Women's Month Celebration, Artists of Today, New York, NY
 2022, Earth Eater: Circles, New York City Poetry Festival, Governor’s Island, NY
 2022, Art and Tech Festival, CODAME, Online Exhibition
@@ -44,20 +43,22 @@ folder: mydoc
 2012, Your Face Squared: Community Self-Portrait Project, Bruce Museum, Greenwich, Connecticut
 ```
 
-#### Awards and Honors
+
+#### Residencies and Awards
 ```
-2022, Grant Winner, New Jersey's Coastal Resilience Art Residency
-2019, Grant Winner, Artists of Today
-2017, Grant Winner, Pursuit
-2016, Fellow, NASA Datanaut
+2022, Grant Winner, New Jersey's Coastal Resilience Art Fellowship
+2019, Kaga Fusion Residency, Kaga, Japan
+2019, 1st Place Juried Selection, Artists of Today
+2016, Teaching Fellow, NASA Datanaut
 2015, Grant Winner, Google Grace Hopper
 2015, Teaching Fellow, Pursuit
-2015, Teaching Fellow, Google and LOFT
+2015, Teaching Fellow, Hispanic Heritage Foundation
 2015, Forbes 30 under 30 Games
 2013, Fellow, Entertainment Software Association and LOFT      
 2013, Grant Winner, South Pole
 2013, Grant Winner, Verizon
 ```
+
  
 #### Speaking and Workshop
 ```
